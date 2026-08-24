@@ -159,3 +159,16 @@ My technical SEO work includes checking website errors, fixing issues, managing 
 Thank you for visiting my GitHub portfolio.
 
 I am focused on building **professional WordPress websites and SEO-friendly websites** while continuously improving my development and SEO skills.
+### 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](YAHAN_APNA_LINKEDIN_LINK)
+
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](YAHAN_APNA_GITHUB_LINK)
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-orange?style=for-the-badge&logo=google-chrome)](YAHAN_APNI_PORTFOLIO_LINK)
+
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:YAHAN_APNA_EMAIL)
+
+
+
+
